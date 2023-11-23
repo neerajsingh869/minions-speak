@@ -23,3 +23,14 @@ header {
     text-align: center;
     padding-top: 25px;
 }
+
+/* footer */
+footer {
+    padding: 30px;
+    width: 100%;
+    background-color: var(--primary-color);
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    color: white;
+}
