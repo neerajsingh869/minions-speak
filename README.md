@@ -1,0 +1,1 @@
+#### Checkout [minions speak](https://minions-speak869.netlify.app/) app to translate english into minion's language
