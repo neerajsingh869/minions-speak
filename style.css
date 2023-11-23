@@ -34,3 +34,12 @@ footer {
     text-align: center;
     color: white;
 }
+
+.footer-container {
+    width: 50%;
+    margin: auto;
+}
+
+.footer-container h2 {
+    margin-bottom: 10px;
+}
