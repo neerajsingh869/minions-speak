@@ -50,3 +50,15 @@ main {
     margin: auto;
     margin-top: 40px;
 }
+
+/* translate button */
+main button {
+    margin: 15px 0px;
+    height: 45px;
+    width: 595px;
+    background-color: var(--primary-color);
+    border: 0px solid white;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
