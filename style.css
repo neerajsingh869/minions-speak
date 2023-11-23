@@ -13,3 +13,13 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+/* header */
+header {
+    height: 100px;
+    width: 100%;
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
