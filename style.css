@@ -62,3 +62,12 @@ main button {
     font-size: 16px;
     cursor: pointer;
 }
+
+/* input textarea */
+#input-text-area {
+    font-size: 16px;
+}
+
+#input-text-area::placeholder {
+    font-size: 16px;
+}
